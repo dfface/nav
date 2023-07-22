@@ -13,7 +13,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     description   = "宇瀚泰克 | yuhan.tech"
     upload        = "javascript:void(0);"  # 左侧导航栏的"网站提交"
     about         = "javascript:void(0);"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "javascript:void(0);"  
+    repository    = "https://github.com/dfface/"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "宇瀚泰克"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
