@@ -9,7 +9,7 @@
     - title: Beancount
       logo: beancount.png
       url: http://local.yuhan.tech:8701
-      description: 哪吒探针管理
+      description: 复式记账的 Web 工具
     - title: 关于我
       logo: dff.png
       url: https://blog.yuhan.tech/about/
