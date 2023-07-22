@@ -11,12 +11,12 @@
       url: http://local.yuhan.tech:8701
       description: 哪吒探针管理
     - title: 关于我
-      logo: 关于我.ico
+      logo: dff.png
       url: https://blog.yuhan.tech/about/
       description: 站长的个人介绍
 
 - taxonomy: 常用工具
-  icon: fal fa-toolbox
+  icon: fas fa-vials
   links:
     - title: last.fm
       logo: lastfm.png
@@ -28,15 +28,15 @@
       description: 最良心的云！
 
 - taxonomy: 运维支持
-  icon: fal fa-atom-alt
+  icon: fas fa-yin-yang
   links:
     - title: 谷歌搜索控制台
       logo: googleseo.png
       url: https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Ablog.yuhan.tech
       description: SEO 多关注！
-    - title: FontAwesome
+    - title: FontAwesome v5
       logo: fontawesome.png
-      url: https://fontawesome.com.cn/
+      url: https://fontawesome.com/v5/search?o=r&m=free
       description: FontAwesome 图标搜索库！
 
 - taxonomy: 编程学习
