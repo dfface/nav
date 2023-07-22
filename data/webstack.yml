@@ -1,56 +1,43 @@
 ---
-- taxonomy: 本地开发
+- taxonomy: 本地网址
   icon: far fa-star
   links:
-    - title: Argo CD
-      logo: argocd.ico
-      url: https://argo.yuhan.tech
-      description: 持续部署
-    - title: Gitea
-      logo: gitea.png
-      url: https://gitea.yuhan.tech
-      description: Git 服务
-    - title: Jenkins
-      logo: jenkins.ico
-      url: https://jenkins.yuhan.tech
-      description: 持续集成
+    - title: Navidrome
+      logo: navidrome.png
+      url: http://local.yuhan.tech:4533
+      description: 本地的音乐曲库，配合 musicn 食用更佳！
+    - title: Beancount
+      logo: beancount.png
+      url: http://local.yuhan.tech:8701
+      description: 哪吒探针管理
     - title: 关于我
       logo: 关于我.ico
       url: https://blog.yuhan.tech/about/
-      qrcode: assets/images/favicon.png
       description: 站长的个人介绍
-    - title: 文档库
-      logo: doks.ico
-      url: https://doks.xazz.top
-      description: 小A猪崽的文档库
-    - title: 探针
-      logo: 探针.svg
-      url: https://vps.xazz.top/
-      description: 哪吒探针管理
-    - title: 开源
-      logo: github.ico
-      url: https://github.com/i-kirito/nav.github.io
-      description: 导航站GitHub开源
-    - title: Chatgpt镜像
-      logo: chatgpt.ico
-      url: https://chat.xazz.top/
-      description: 不需要加速也能上
-    - title: Wallhaven
-      logo: wallhaven.ico
-      url: https://wallhaven.cc
-      description: 一个非常丰富的图库网
-    - title: 哔哩哔哩
-      logo: bilibili.ico
-      url: https://bilibili.com/
-      description: 年轻人的视频平台
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
-    - title: Notion
-      logo: notion.png
-      url: https://www.notion.so/
-      description: Notion笔记，简洁便利
+
+- taxonomy: 常用工具
+  icon: fal fa-toolbox
+  links:
+    - title: last.fm
+      logo: lastfm.png
+      url: https://www.last.fm/
+      description: 歌曲封面哪里找？
+    - title: cloudflare
+      logo: cloudflare.png
+      url: https://dash.cloudflare.com/a878e4821000ecbe1cb0b96324e5f0c0
+      description: 最良心的云！
+
+- taxonomy: 运维支持
+  icon: fal fa-atom-alt
+  links:
+    - title: 谷歌搜索控制台
+      logo: googleseo.png
+      url: https://search.google.com/search-console/performance/search-analytics?resource_id=sc-domain%3Ablog.yuhan.tech
+      description: SEO 多关注！
+    - title: FontAwesome
+      logo: fontawesome.png
+      url: https://fontawesome.com.cn/
+      description: FontAwesome 图标搜索库！
 
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
@@ -599,28 +586,6 @@
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
 
-- taxonomy: 推荐应用
-  icon: fab fa-app-store-ios fa-lg
-  list:
-    - term: 内网穿透
-      links:
-        - title: ZeroTier
-          url: https://www.zerotier.com/
-          logo: zerotier.ico
-          description: P2P点对点端口映射，交互延迟低
-        - title: Frp
-          url: https://gofrp.org/
-          logo: frp.ico
-          description: 简单、高效的内网穿透工具
-        - title: Nps Npc
-          url: https://github.com/ehang-io/nps
-          logo: nps.ico
-          description: 强大的内网穿透代理服务器
-        - title: NatFrp
-          url: https://www.natfrp.com/
-          logo: natfrp.ico
-          description: 樱花内网穿透，无需服务器映射
-
     - term: 系统应用
       links:
         - title: iTellyou
@@ -766,37 +731,3 @@
           url: https://booltool.boolv.tech/
           logo: booltool.ico
           description: 智能处理图像/视频处理
-
-- taxonomy: Docker
-  icon: fab fa-docker fa-lg
-  list:
-    - term: Docker
-      links:
-        - title: 恩山论坛
-          url: https://www.right.com.cn/forum/
-          logo: enshan.ico
-          description: 中文IT技术交流社区
-        - title: 软路由固件
-          url: https://supes.top
-          logo: gujian.ico
-          description: OpenWrt可刷docker定制固件
-        - title: 骷髅头固件
-          url: https://github.com/DHDAXCW/NanoPi-R2S-rk3328
-          logo: kuloutou.ico
-          description: 推荐使用骷髅头固件刷docker。R2s可用
-        - title: docker加速
-          url: https://dockerproxy.com/
-          logo: docker加速.ico
-          description: 解决无法拉取docker镜像问题
-        - title: dockerhub
-          url: https://hub.docker.com/
-          logo: dockerhub.ico
-          description: docker镜像拉取网址
-        - title: 青龙面板
-          url: https://hub.docker.com/r/whyour/qinglong
-          logo: qinglong.ico
-          description: docker部署青龙面板
-        - title: Halo博客
-          url: https://hub.docker.com/r/halohub/halo
-          logo: halo.ico
-          description: halo博客，强大的前后端结合
