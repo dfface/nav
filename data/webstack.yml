@@ -10,10 +10,6 @@
       logo: beancount.png
       url: http://local.yuhan.tech:8701
       description: 复式记账的 Web 工具
-    - title: 关于我
-      logo: dff.png
-      url: https://blog.yuhan.tech/about/
-      description: 站长的个人介绍
 
 - taxonomy: 常用工具
   icon: fas fa-vials
@@ -26,6 +22,50 @@
       logo: cloudflare.png
       url: https://dash.cloudflare.com/a878e4821000ecbe1cb0b96324e5f0c0
       description: 最良心的云！
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: 开源趋势
+    - title: 知乎
+      logo: zhihu.png
+      url: https://www.zhihu.com/hot
+      description: 高质量的问答社区
+    - title: 什么值得买
+      logo: zhidemai.ico
+      url: https://www.smzdm.com/
+      description: 购物比价
+    - title: 小红书
+      logo: xiaohongshu.png
+      url: https://www.xiaohongshu.com/explore
+      description: 2 亿人的生活经验，都在小红书
+    - title: Twitter
+      logo: twitter.png
+      url: https://twitter.com/home
+      description: 国际视野，海外交流
+    - title: Instagram
+      logo: instagram.png
+      url: https://www.instagram.com/
+      description: 生活照片分享
+    - title: Coursera
+      logo: coursera.png
+      url: https://www.coursera.org/
+      description: 国外精品课程，提升个人技能
+    - title: 学堂在线
+      logo: xuetangzaixian.ico
+      url: https://www.xuetangx.com/
+      description: 清华发起的中文慕课
+    - title: 中国大学MOOC
+      logo: mooc.png
+      url: https://www.icourse163.org/
+      description: 网易出品的中文慕课
+    - title: CodeTop
+      logo: codetop.jpg
+      url: https://codetop.cc/home
+      description: 企业面试算法题库，直通力扣
+    - title: 人人都是产品经理
+      logo: woshipm.ico
+      url: https://www.woshipm.com/
+      description: 互联网产品动态
 
 - taxonomy: 运维支持
   icon: fas fa-yin-yang
