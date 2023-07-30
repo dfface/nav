@@ -2,7 +2,7 @@
 title: "webstack"
 date: 2023-03-30T18:50:00
 draft: true
-web: https://nav.xazz.top/
+web: https://www.yuhan.tech/
 ---
 
 # 使用方法

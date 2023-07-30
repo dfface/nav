@@ -2,10 +2,10 @@
 - taxonomy: 本地网址
   icon: far fa-star
   links:
-    - title: Navidrome
+    - title: Navidrome(改为阿里云盘)
       logo: navidrome.png
-      url: http://local.yuhan.tech:4533
-      description: 本地的音乐曲库，配合 musicn 食用更佳！
+      url: https://www.aliyundrive.com/drive/folder/613a222169cc4b16d67f46e0bddfd8232bb55373
+      description: 本地的音乐曲库，配合 musicn 食用更佳！（已改为阿里云盘）
     - title: Beancount
       logo: beancount.png
       url: http://local.yuhan.tech:8701
