@@ -10,6 +10,10 @@
       logo: beancount.png
       url: http://local.yuhan.tech:8701
       description: 复式记账的 Web 工具
+    - title: 电子书库
+      logo: yh.png
+      url: http://local.yuhan.tech:8710
+      description: 自建电子书库 eBooks
 
 - taxonomy: 常用工具
   icon: fas fa-vials
