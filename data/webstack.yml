@@ -2,10 +2,10 @@
 - taxonomy: 本地网址
   icon: far fa-star
   links:
-    - title: Navidrome(改为阿里云盘)
+    - title: Navidrome
       logo: navidrome.png
-      url: https://www.aliyundrive.com/drive/folder/613a222169cc4b16d67f46e0bddfd8232bb55373
-      description: 本地的音乐曲库，配合 musicn 食用更佳！（已改为阿里云盘）
+      url: http://local.yuhan.tech:4533
+      description: 本地的音乐曲库
     - title: Beancount
       logo: beancount.png
       url: http://local.yuhan.tech:8701
@@ -14,6 +14,19 @@
       logo: yh.png
       url: http://local.yuhan.tech:8710
       description: 自建电子书库 eBooks
+    - title: Jellyfin
+      logo: yh.png
+      url: http://local.yuhan.tech:8096
+      description: 自建媒体库
+    - title: WebDAV-AliyunDrive
+      logo: yh.png
+      url: http://local.yuhan.tech:8280
+      description: 阿里云盘的 WebDAV
+    - title: 青龙面板
+      logo: yh.png
+      url: http://local.yuhan.tech:5700
+      description: 定时脚本
+
 
 - taxonomy: 常用工具
   icon: fas fa-vials
