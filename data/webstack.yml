@@ -12,7 +12,7 @@
       description: 复式记账的 Web 工具
     - title: 电子书库
       logo: yh.png
-      url: http://local.yuhan.tech:8710
+      url: https://ebooks.yuhan.tech
       description: 自建电子书库 eBooks
     - title: Jellyfin
       logo: yh.png
