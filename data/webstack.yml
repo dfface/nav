@@ -26,6 +26,10 @@
       logo: yh.png
       url: http://local.yuhan.tech:5700
       description: 定时脚本
+    - title: 效率站 Efficient
+      logo: yh.png
+      url: http://192.168.1.249:8201
+      description: 节省自己的时间
 
 
 - taxonomy: 常用工具
